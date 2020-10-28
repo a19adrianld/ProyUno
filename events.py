@@ -1,7 +1,7 @@
-import var
+import var, sys
 
 class Eventos():
-    def Saludos(self):
+    def Salir(self):
         '''
         Módulo para cerrar el programa
         :return:
